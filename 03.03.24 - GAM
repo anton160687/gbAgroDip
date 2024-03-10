@@ -17,4 +17,16 @@
   https://api.telegram.org/botTTOOKKEENN/getMe - статус бота
   https://api.telegram.org/botTTOOKKEENN/getUpdates - сообщения для бота
   https://api.telegram.org/botTTOOKKEENN/sendMessage?chat_id=IDПОЛУЧАТЕЛЯ&text='TEXT' - сообщения от бота
+
+06.03.24
+- добил видео DP
+  Выявил интересный метод хранения Токена, без енв и гитигнора
+- проработал 2 урока Python и AIOgram
+
+07.03.24
+- проработал 3 урок Python и AIOgram. Создал описанине, профиль и меню с помощью BotFather
+
+09.03.24
+- проработал 4 урок Python и AIOgram. Переписал меню кодом
+
  
